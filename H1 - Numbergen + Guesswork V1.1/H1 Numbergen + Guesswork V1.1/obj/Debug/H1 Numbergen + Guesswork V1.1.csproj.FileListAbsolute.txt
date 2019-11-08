@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\bin\Debug\H1 Numbergen + Guesswork V1.1.exe.config
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\bin\Debug\H1 Numbergen + Guesswork V1.1.exe
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\bin\Debug\H1 Numbergen + Guesswork V1.1.pdb
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\obj\Debug\H1 Numbergen + Guesswork V1.1.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\obj\Debug\H1 Numbergen + Guesswork V1.1.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\obj\Debug\H1 Numbergen + Guesswork V1.1.exe
+C:\Users\tec\source\repos\H1 Numbergen + Guesswork V1.1\H1 Numbergen + Guesswork V1.1\obj\Debug\H1 Numbergen + Guesswork V1.1.pdb

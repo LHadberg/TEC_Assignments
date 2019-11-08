@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\bin\Debug\H1_FileInput.exe.config
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\bin\Debug\H1_FileInput.exe
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\bin\Debug\H1_FileInput.pdb
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\obj\Debug\H1_FileInput.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\obj\Debug\H1_FileInput.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\obj\Debug\H1_FileInput.exe
+C:\Users\tec\source\repos\H1_FileInput\H1_FileInput\obj\Debug\H1_FileInput.pdb

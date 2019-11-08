@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\bin\Debug\H1 CPR-opgave.exe.config
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\bin\Debug\H1 CPR-opgave.exe
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\bin\Debug\H1 CPR-opgave.pdb
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\obj\Debug\H1 CPR-opgave.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\obj\Debug\H1 CPR-opgave.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\obj\Debug\H1 CPR-opgave.exe
+C:\Users\tec\source\repos\H1 CPR-opgave\H1 CPR-opgave\obj\Debug\H1 CPR-opgave.pdb

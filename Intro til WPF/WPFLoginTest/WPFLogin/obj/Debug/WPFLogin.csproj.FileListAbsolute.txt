@@ -1,0 +1,17 @@
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.csprojAssemblyReference.cache
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\AccountCreation.g.cs
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\MainWindow.g.cs
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\App.g.cs
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin_MarkupCompile.cache
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin_MarkupCompile.lref
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\bin\Debug\WPFLogin.exe.config
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\bin\Debug\WPFLogin.exe
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\bin\Debug\WPFLogin.pdb
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\AccountCreation.baml
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\MainWindow.baml
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.g.resources
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.Properties.Resources.resources
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.csproj.GenerateResource.cache
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.exe
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\WPFLogin.pdb
+C:\Users\lasha\source\repos\WPFLoginTest\WPFLogin\obj\Debug\App.baml

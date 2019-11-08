@@ -1,0 +1,7 @@
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\obj\Debug\P1 CSHARP - Menu.csprojAssemblyReference.cache
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\obj\Debug\P1 CSHARP - Menu.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\bin\Debug\P1 CSHARP - Menu.exe.config
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\bin\Debug\P1 CSHARP - Menu.exe
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\bin\Debug\P1 CSHARP - Menu.pdb
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\obj\Debug\P1 CSHARP - Menu.exe
+C:\Users\lasha\source\repos\P1 CSHARP - Menu\P1 CSHARP - Menu\obj\Debug\P1 CSHARP - Menu.pdb
